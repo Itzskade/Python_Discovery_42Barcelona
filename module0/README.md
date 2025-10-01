@@ -46,8 +46,11 @@ Repository of exercises for Module 0 of the Discovery Piscine at 42.
 
 ---
 
+
 ## 🙋 Author
+Developed as part of the Python programming challenge during the Discovery Piscine 42.
 
+---
+
+## 📧 Contact
 [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
-
-
