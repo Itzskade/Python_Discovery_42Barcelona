@@ -44,6 +44,12 @@ Repositorio de ejercicios para el módulo 0 de la Discovery Piscine en 42.
 
 ---
 
+## 📜 Licencia
+
+Este proyecto forma parte del proceso de aprendizaje durante la Discovery Piscine 42 y se presenta con fines educativos. Puedes reutilizar el código para uso personal o como referencia.
+
+---
+
 ## 🙋 Autor
 Desarrollado como parte del reto de programación en Python durante la Discovery Piscine 42.
 
