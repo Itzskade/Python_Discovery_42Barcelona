@@ -14,7 +14,7 @@ Repository of exercises for Module 0 of the Discovery Piscine at 42 (Python basi
 
 ```bash
 ~/discovery_piscine/
-└── module0/
+└── module1/
     ├── ex00/
     │   └── name.py
     ├── ex01/
