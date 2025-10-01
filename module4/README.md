@@ -6,7 +6,7 @@
 
 # 🐍 Discovery Piscine - Module 4
 
-Repository of exercises for Module 4 of the Discovery Piscine at 42 (Python basics).
+Repository of exercises for Module 4 of the Discovery Piscine at 42.
 
 ---
 
