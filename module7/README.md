@@ -4,9 +4,9 @@
   </a>
 </p>
 
-# 🐍 Discovery Piscine - Module 6
+# 🐍 Discovery Piscine - Module 7
 
-Repository of exercises for Module 6 of the Discovery Piscine at 42 (Strings and parameters in Python).
+Repository of exercises for Module 7 of the Discovery Piscine at 42 (Strings and parameters in Python).
 
 ---
 
@@ -14,7 +14,7 @@ Repository of exercises for Module 6 of the Discovery Piscine at 42 (Strings and
 
 ```bash
 ~/discovery_piscine/
-└── module6/
+└── module7/
     ├── ex00/
     │   └── parameter_matching.py
     ├── ex01/
