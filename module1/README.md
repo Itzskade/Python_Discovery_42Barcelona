@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🐍 Discovery Piscine - Module 0 (Capítulos IV - VII)
+# 🐍 Discovery Piscine - Module 1
 
 Repository of exercises for Module 0 of the Discovery Piscine at 42 (Python basics).
 
