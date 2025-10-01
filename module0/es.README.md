@@ -1,16 +1,16 @@
 <p align="right">
   <a href="es.README.md">
-    <img src="https://img.shields.io/badge/🌐%20English-README-blue?style=for-the-badge" alt="English README" />
+    <img src="https://img.shields.io/badge/🌐%20Spanish-README-blue?style=for-the-badge" alt="Spanish README" />
   </a>
 </p>
 
 # 🐍 Discovery Piscine - Module 0
 
-Repositorio de ejercicios para el módulo 0 de la Discovery Piscine en 42.
+Repository of exercises for Module 0 of the Discovery Piscine at 42.
 
 ---
 
-## 📁 Estructura del Proyecto
+## 📁 Project Structure
 
 ```bash
 ~/discovery_piscine/
@@ -20,31 +20,33 @@ Repositorio de ejercicios para el módulo 0 de la Discovery Piscine en 42.
     │   └── 42.py
     ├── ex02/
     │   └── hello_world.py
+
 ```
 
 ---
 
-## 📄 Archivos
+## 📄 Files
 
-| Ejercicio | Carpeta | Archivo             |
-|-----------|---------|---------------------|
-| 00        | ex00/   | *(vacío)*           |
-| 01        | ex01/   | `42.py`             |
-| 02        | ex02/   | `hello_world.py`    |
-
----
-
-## 📋 Estado del Proyecto
-
-| Ejercicio | Carpeta     | Completado | Entregado | Validación |
-|-----------|-------------|------------|-----------|------------|
-| 00        | [ex00](./ex00) | ✅        | ✅        | ✅          |
-| 01        | [ex01](./ex01) | ✅        | ✅        | ✅          |
-| 02        | [ex02](./ex02) | ✅        | ✅        | ✅          |
+| Exercise | Folder | File                |
+|----------|--------|---------------------|
+| 00       | ex00/  | *(empty)*           |
+| 01       | ex01/  | `42.py`             |
+| 02       | ex02/  | `hello_world.py`    |
 
 ---
 
-## 🙋 Autor
+## 📋 Project status
+
+| Exercise | Folder       | Completed | Submitted | Validated |
+|----------|--------------|-----------|-----------|-----------|
+| 00       | [ex00](./ex00) | ✅ Yes  | ✅ Yes  | ✅ Yes    |
+| 01       | [ex01](./ex01) | ✅ Yes  | ✅ Yes  | ✅ Yes    |
+| 02       | [ex02](./ex02) | ✅ Yes  | ✅ Yes  | ✅ Yes    |
+
+
+---
+
+## 🙋 Author
 
 [rmarin-n@student.42barcelona.com](mailto:rmarin-n@student.42barcelona.com)
 
