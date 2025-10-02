@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def famous_births(date):
-    for scientist in women_scientists.values(), key=lambda x: x["date_of_birth"]):
+    for scientist in sorted(date.values(), key=lambda x: x["date_of_birth"]):
         print(f'{scientist["name"]} is a great scientist born in {scientist["date_of_birth"]}')
 
 women_scientists = {
