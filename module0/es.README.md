@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🐍 Discovery Piscine - Module 0
+# 🐍 Discovery Piscine - Módulo 0
 
 Repositorio de ejercicios para el módulo 0 de la Discovery Piscine en 42.
 
